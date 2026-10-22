@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#1F7A6C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F5"
+textColor = "#111827"
+
+[server]
+headless = true
+port = 3000
+address = "0.0.0.0"
+enableCORS = false
+enableXsrfProtection = false
+fileWatcherType = "auto"
+
+[browser]
+ gatherUsageStats = false
