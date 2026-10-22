@@ -14,4 +14,4 @@ enableXsrfProtection = false
 fileWatcherType = "auto"
 
 [browser]
- gatherUsageStats = false
+gatherUsageStats = false
